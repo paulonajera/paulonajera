@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ... becoming a Software Engineer
-- 🌱 I’m currently learning ... Python, SQL and AWS 
+- 🌱 I’m currently learning ... Python, OpenCV, Web Development  
 - 👯 I’m looking to collaborate on ... any projects for experience.
 - 💬 Ask me about ... anything really.
 - 📫 How to reach me: ... najera.paulo@outlook.com
