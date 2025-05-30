@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ... becoming a Cyber Security Professional
-- 🌱 I’m currently learning ... Python, Cloud Security, Cybersecurity   
-- 👯 I’m looking to collaborate on ... any projects for experience.
-- 💬 Ask me about ... anything really.
-- 📫 How to reach me: ... najera.paulo@outlook.com
+- 🔭 I’m currently working on ... becoming a Certified IT Security Professional
+- 🌱 I’m currently learning ... Python, IT Security, Privacy
+- 💬 Ask me about ... how to get started as a IT Professional
+- 📫 How to reach me: ... DM?
 - ⚡ Fun fact: ... I'm a University of Texas at Dallas Graduate Student. Go Comets! 
